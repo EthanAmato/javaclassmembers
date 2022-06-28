@@ -1,3 +1,4 @@
+* RaeDean Fullerton
 # Class Members
 
 ## Instructor
