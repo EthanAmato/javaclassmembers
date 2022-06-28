@@ -9,3 +9,4 @@ The instructor's name is Scott Dossey
 
 * Ethan Amato
 * Lonnesa Baynard
+* Jess Athey
